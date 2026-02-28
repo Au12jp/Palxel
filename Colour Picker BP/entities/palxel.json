@@ -1,0 +1,246 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "au12jp:palxel",
+      "is_summonable": true,
+      "is_spawnable": false,
+      "is_experimental": false,
+      "properties": {
+        "au12jp:palxel_0": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_1": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_2": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_3": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_4": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_5": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_6": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_7": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_8": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_9": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_10": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_11": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_12": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_13": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_14": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_15": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_16": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_17": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_18": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_19": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_20": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_21": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_22": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_23": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_24": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_25": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_26": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_27": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_28": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_29": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_30": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        },
+        "au12jp:palxel_31": {
+          "type": "int",
+          "range": [0, 16777215],
+          "default": 0,
+          "client_sync": true
+        }
+      }
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": ["palxel", "palxel_entity"]
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "on_damage": {
+            "filters": {}
+          },
+          "deals_damage": false
+        }
+      },
+      "minecraft:health": {
+        "value": 1,
+        "max": 1
+      },
+      "minecraft:knockback_resistance": {
+        "value": 1,
+        "max": 1
+      },
+      "minecraft:push_through": {
+        "value": 1
+      },
+      "minecraft:collision_box": {
+        "width": 0.0,
+        "height": 0.0
+      },
+      "minecraft:custom_hit_test": {
+        "hitboxes": [
+          {
+            "pivot": [0, 0.8, -0.9],
+            "width": 0.3,
+            "height": 0.25
+          }
+        ]
+      },
+      "minecraft:physics": {
+        "has_gravity": false,
+        "has_collision": false
+      }
+    }
+  }
+}

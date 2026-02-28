@@ -1,0 +1,51 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "au12jp:palxel",
+            "materials": {
+                "default": "entity_alphablend"
+            },
+            "textures": {
+                "palxel": "textures/palxel/palxel"
+            },
+            "geometry": {
+                "palxel": "geometry.palxel"
+            },
+            "render_controllers": [
+                "controller.render.palxel.0",
+                "controller.render.palxel.1",
+                "controller.render.palxel.2",
+                "controller.render.palxel.3",
+                "controller.render.palxel.4",
+                "controller.render.palxel.5",
+                "controller.render.palxel.6",
+                "controller.render.palxel.7",
+                "controller.render.palxel.8",
+                "controller.render.palxel.9",
+                "controller.render.palxel.10",
+                "controller.render.palxel.11",
+                "controller.render.palxel.12",
+                "controller.render.palxel.13",
+                "controller.render.palxel.14",
+                "controller.render.palxel.15",
+                "controller.render.palxel.16",
+                "controller.render.palxel.17",
+                "controller.render.palxel.18",
+                "controller.render.palxel.19",
+                "controller.render.palxel.20",
+                "controller.render.palxel.21",
+                "controller.render.palxel.22",
+                "controller.render.palxel.23",
+                "controller.render.palxel.24",
+                "controller.render.palxel.25",
+                "controller.render.palxel.26",
+                "controller.render.palxel.27",
+                "controller.render.palxel.28",
+                "controller.render.palxel.29",
+                "controller.render.palxel.30",
+                "controller.render.palxel.31"
+            ]
+        }
+    }
+}

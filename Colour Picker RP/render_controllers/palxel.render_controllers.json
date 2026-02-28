@@ -1,0 +1,1765 @@
+{
+    "format_version": "1.20.60",
+    "render_controllers": {
+        "controller.render.palxel.0": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_0": true
+                },
+                {
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_0') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_0'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_0'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_0'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_0'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_0'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.1": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_1": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_1') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_1'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_1'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_1'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_1'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_1'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.2": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_2": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_2') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_2'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_2'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_2'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_2'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_2'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.3": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_3": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_3') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_3'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_3'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_3'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_3'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_3'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.4": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_4": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_4') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_4'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_4'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_4'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_4'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_4'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.5": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_5": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_5') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_5'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_5'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_5'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_5'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_5'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.6": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_6": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_6') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_6'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_6'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_6'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_6'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_6'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.7": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_7": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_7') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_7'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_7'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_7'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_7'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_7'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.8": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_8": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_8') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_8'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_8'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_8'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_8'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_8'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.9": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_9": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_9') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_9'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_9'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_9'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_9'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_9'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.10": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_10": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_10') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_10'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_10'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_10'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_10'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_10'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.11": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_11": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_11') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_11'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_11'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_11'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_11'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_11'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.12": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_12": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_12') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_12'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_12'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_12'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_12'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_12'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.13": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_13": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_13') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_13'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_13'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_13'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_13'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_13'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.14": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_14": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_14') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_14'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_14'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_14'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_14'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_14'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.15": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_15": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_15') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_15'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_15'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_15'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_15'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_15'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.16": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_16": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_16') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_16'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_16'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_16'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_16'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_16'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.17": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_17": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_17') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_17'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_17'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_17'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_17'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_17'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.18": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_18": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_18') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_18'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_18'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_18'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_18'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_18'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.19": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_19": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_19') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_19'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_19'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_19'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_19'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_19'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.20": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_20": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_20') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_20'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_20'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_20'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_20'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_20'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.21": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_21": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_21') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_21'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_21'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_21'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_21'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_21'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.22": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_22": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_22') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_22'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_22'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_22'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_22'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_22'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.23": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_23": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_23') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_23'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_23'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_23'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_23'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_23'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.24": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_24": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_24') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_24'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_24'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_24'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_24'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_24'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.25": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_25": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_25') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_25'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_25'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_25'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_25'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_25'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.26": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_26": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_26') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_26'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_26'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_26'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_26'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_26'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.27": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_27": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_27') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_27'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_27'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_27'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_27'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_27'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.28": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_28": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_29": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_28') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_28'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_28'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_28'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_28'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_28'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.29": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_29": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_30": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_29') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_29'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_29'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_29'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_29'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_29'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.30": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_30": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_31": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_30') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_30'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_30'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_30'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_30'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_30'), 16))) / 255",
+                "a": 1
+            }
+        },
+        "controller.render.palxel.31": {
+            "geometry": "Geometry.palxel",
+            "materials": [
+                {
+                    "*": "material.default"
+                }
+            ],
+            "textures": [
+                "Texture.palxel"
+            ],
+            "part_visibility": [
+                {
+                    "palxel_31": true
+                },
+                {
+                    "palxel_0": false,
+                    "palxel_1": false,
+                    "palxel_2": false,
+                    "palxel_3": false,
+                    "palxel_4": false,
+                    "palxel_5": false,
+                    "palxel_6": false,
+                    "palxel_7": false,
+                    "palxel_8": false,
+                    "palxel_9": false,
+                    "palxel_10": false,
+                    "palxel_11": false,
+                    "palxel_12": false,
+                    "palxel_13": false,
+                    "palxel_14": false,
+                    "palxel_15": false,
+                    "palxel_16": false,
+                    "palxel_17": false,
+                    "palxel_18": false,
+                    "palxel_19": false,
+                    "palxel_20": false,
+                    "palxel_21": false,
+                    "palxel_22": false,
+                    "palxel_23": false,
+                    "palxel_24": false,
+                    "palxel_25": false,
+                    "palxel_26": false,
+                    "palxel_27": false,
+                    "palxel_28": false,
+                    "palxel_29": false,
+                    "palxel_30": false
+                }
+            ],
+            "overlay_color": {
+                "r": "(math.floor(query.property('au12jp:palxel_31') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_31'), 1048576)) / 65536)) / 255",
+                "g": "(math.floor((math.mod(query.property('au12jp:palxel_31'), 65536)) / 4096) * 16 + math.floor((math.mod(query.property('au12jp:palxel_31'), 4096)) / 256)) / 255",
+                "b": "(math.floor((math.mod(query.property('au12jp:palxel_31'), 256)) / 16) * 16 + (math.mod(query.property('au12jp:palxel_31'), 16))) / 255",
+                "a": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.name",
+    "name": "pack.description",
+    "uuid": "389274fb-125e-4b48-93f5-983957e3cc42",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4307ec13-af67-4d85-9453-c5148a520ed9",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "index.js",
+      "uuid": "fdf92b0b-ea21-48cc-962d-93f7f85e59a0",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.10.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.1.0"
+    }
+  ],
+  "metadata": {
+    "authors": ["Au12jp"],
+    "license": "MIT License",
+    "url": "https://github.com/Au12jp/bedrock-examples/tree/main/Colour%20Picker"
+  }
+}
