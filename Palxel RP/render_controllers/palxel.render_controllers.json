@@ -12,42 +12,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_0": true
-                },
-                {
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_0": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_0') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_0'), 1048576)) / 65536)) / 255",
@@ -67,42 +33,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_1": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_1": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_1') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_1'), 1048576)) / 65536)) / 255",
@@ -122,42 +54,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_2": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_2": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_2') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_2'), 1048576)) / 65536)) / 255",
@@ -177,42 +75,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_3": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_3": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_3') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_3'), 1048576)) / 65536)) / 255",
@@ -232,42 +96,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_4": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_4": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_4') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_4'), 1048576)) / 65536)) / 255",
@@ -287,42 +117,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_5": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_5": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_5') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_5'), 1048576)) / 65536)) / 255",
@@ -342,42 +138,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_6": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_6": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_6') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_6'), 1048576)) / 65536)) / 255",
@@ -397,42 +159,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_7": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_7": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_7') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_7'), 1048576)) / 65536)) / 255",
@@ -452,42 +180,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_8": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_8": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_8') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_8'), 1048576)) / 65536)) / 255",
@@ -507,42 +201,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_9": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_9": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_9') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_9'), 1048576)) / 65536)) / 255",
@@ -562,42 +222,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_10": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_10": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_10') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_10'), 1048576)) / 65536)) / 255",
@@ -617,42 +243,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_11": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_11": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_11') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_11'), 1048576)) / 65536)) / 255",
@@ -672,42 +264,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_12": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_12": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_12') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_12'), 1048576)) / 65536)) / 255",
@@ -727,42 +285,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_13": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_13": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_13') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_13'), 1048576)) / 65536)) / 255",
@@ -782,42 +306,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_14": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_14": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_14') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_14'), 1048576)) / 65536)) / 255",
@@ -837,42 +327,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_15": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_15": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_15') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_15'), 1048576)) / 65536)) / 255",
@@ -892,42 +348,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_16": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_16": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_16') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_16'), 1048576)) / 65536)) / 255",
@@ -947,42 +369,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_17": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_17": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_17') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_17'), 1048576)) / 65536)) / 255",
@@ -1002,42 +390,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_18": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_18": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_18') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_18'), 1048576)) / 65536)) / 255",
@@ -1057,42 +411,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_19": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_19": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_19') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_19'), 1048576)) / 65536)) / 255",
@@ -1112,42 +432,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_20": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_20": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_20') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_20'), 1048576)) / 65536)) / 255",
@@ -1167,42 +453,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_21": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_21": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_21') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_21'), 1048576)) / 65536)) / 255",
@@ -1222,42 +474,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_22": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_22": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_22') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_22'), 1048576)) / 65536)) / 255",
@@ -1277,42 +495,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_23": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_23": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_23') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_23'), 1048576)) / 65536)) / 255",
@@ -1332,42 +516,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_24": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_24": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_24') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_24'), 1048576)) / 65536)) / 255",
@@ -1387,42 +537,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_25": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_25": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_25') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_25'), 1048576)) / 65536)) / 255",
@@ -1442,42 +558,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_26": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_26": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_26') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_26'), 1048576)) / 65536)) / 255",
@@ -1497,42 +579,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_27": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_27": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_27') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_27'), 1048576)) / 65536)) / 255",
@@ -1552,42 +600,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_28": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_29": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_28": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_28') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_28'), 1048576)) / 65536)) / 255",
@@ -1607,42 +621,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_29": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_30": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_29": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_29') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_29'), 1048576)) / 65536)) / 255",
@@ -1662,42 +642,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_30": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_31": false
-                }
+                { "*": false },
+                { "palxel_30": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_30') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_30'), 1048576)) / 65536)) / 255",
@@ -1717,42 +663,8 @@
                 "Texture.palxel"
             ],
             "part_visibility": [
-                {
-                    "palxel_31": true
-                },
-                {
-                    "palxel_0": false,
-                    "palxel_1": false,
-                    "palxel_2": false,
-                    "palxel_3": false,
-                    "palxel_4": false,
-                    "palxel_5": false,
-                    "palxel_6": false,
-                    "palxel_7": false,
-                    "palxel_8": false,
-                    "palxel_9": false,
-                    "palxel_10": false,
-                    "palxel_11": false,
-                    "palxel_12": false,
-                    "palxel_13": false,
-                    "palxel_14": false,
-                    "palxel_15": false,
-                    "palxel_16": false,
-                    "palxel_17": false,
-                    "palxel_18": false,
-                    "palxel_19": false,
-                    "palxel_20": false,
-                    "palxel_21": false,
-                    "palxel_22": false,
-                    "palxel_23": false,
-                    "palxel_24": false,
-                    "palxel_25": false,
-                    "palxel_26": false,
-                    "palxel_27": false,
-                    "palxel_28": false,
-                    "palxel_29": false,
-                    "palxel_30": false
-                }
+                { "*": false },
+                { "palxel_31": true }
             ],
             "overlay_color": {
                 "r": "(math.floor(query.property('au12jp:palxel_31') / 1048576) * 16 + math.floor((math.mod(query.property('au12jp:palxel_31'), 1048576)) / 65536)) / 255",
